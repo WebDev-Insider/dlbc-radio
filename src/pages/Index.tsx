@@ -9,7 +9,7 @@ const Index: React.FC = () => {
       <div className="flex flex-col items-center justify-center">
         <div className="max-w-4xl w-full mb-8 text-center">
           <h1 className="text-3xl md:text-4xl font-bold mb-4 text-church-900">
-            Welcome to Church Radio Stream
+            Welcome Deeper Life Bible Church Enugu Radio Stream
           </h1>
           <p className="text-lg text-gray-600 mb-8">
             Simply press play to listen to our church service live stream

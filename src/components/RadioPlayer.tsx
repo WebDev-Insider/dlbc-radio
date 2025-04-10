@@ -206,7 +206,7 @@ const RadioPlayer: React.FC = () => {
         <div className="bg-gradient-to-r from-church-500 to-church-700 p-4 text-white">
           <div className="flex items-center space-x-2">
             <Radio className="h-6 w-6" />
-            <h2 className="text-xl font-bold">Church Radio Streaming</h2>
+            <h2 className="text-xl font-bold">DLBC Church Radio Streaming</h2>
           </div>
         </div>
         
@@ -277,7 +277,7 @@ const RadioPlayer: React.FC = () => {
             {/* Listener Count */}
             <div className="flex items-center space-x-2 text-church-600">
               <Users className="h-4 w-4" />
-              <span className="text-sm font-medium">{listenerCount} listening now</span>
+              <span className="text-sm font-medium"> listen now</span>
             </div>
           </div>
         </CardContent>
