@@ -226,11 +226,8 @@ const Admin: React.FC = () => {
             <CardContent className="p-6">
               <div className="space-y-4">
                 <div className="flex items-center justify-between">
-                  <div className="flex items-center space-x-2">
-                    <Users className="h-5 w-5 text-church-600" />
-                    <span className="font-medium">Current Listeners:</span>
-                  </div>
-                  <span className="text-xl font-bold">{listenerCount}</span>
+                 
+               
                 </div>
                 
                 <div className="flex items-center justify-between">
